@@ -1,0 +1,2 @@
+module My2ndJAVA {
+}
